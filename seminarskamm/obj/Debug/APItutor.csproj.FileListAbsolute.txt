@@ -1,0 +1,15 @@
+C:\Users\Matej\Desktop\VisualStudioProject\seminarskamm\bin\seminarskamm.dll.config
+C:\Users\Matej\Desktop\VisualStudioProject\seminarskamm\bin\seminarskamm.dll
+C:\Users\Matej\Desktop\VisualStudioProject\seminarskamm\bin\seminarskamm.pdb
+C:\Users\Matej\Desktop\VisualStudioProject\seminarskamm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Matej\Desktop\VisualStudioProject\seminarskamm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Matej\Desktop\VisualStudioProject\seminarskamm\obj\Debug\APItutor.csprojAssemblyReference.cache
+C:\Users\Matej\Desktop\VisualStudioProject\seminarskamm\obj\Debug\APItutor.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\VisualStudioProject\seminarskamm\obj\Debug\APItutor.csproj.CopyComplete
+C:\Users\Matej\Desktop\VisualStudioProject\seminarskamm\obj\Debug\seminarskamm.dll
+C:\Users\Matej\Desktop\VisualStudioProject\seminarskamm\obj\Debug\seminarskamm.pdb
+C:\Users\Matej\Desktop\VisualStudioProject\seminarskamm\bin\Antlr3.Runtime.dll
+C:\Users\Matej\Desktop\VisualStudioProject\seminarskamm\bin\Newtonsoft.Json.dll
+C:\Users\Matej\Desktop\VisualStudioProject\seminarskamm\bin\WebGrease.dll
+C:\Users\Matej\Desktop\VisualStudioProject\seminarskamm\bin\Antlr3.Runtime.pdb
+C:\Users\Matej\Desktop\VisualStudioProject\seminarskamm\bin\Newtonsoft.Json.xml

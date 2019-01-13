@@ -1,0 +1,9 @@
+C:\Users\Matej Sudac\source\repos\seminarskamm\seminarskamm\bin\seminarskamm.dll.config
+C:\Users\Matej Sudac\source\repos\seminarskamm\seminarskamm\bin\seminarskamm.dll
+C:\Users\Matej Sudac\source\repos\seminarskamm\seminarskamm\bin\seminarskamm.pdb
+C:\Users\Matej Sudac\source\repos\seminarskamm\seminarskamm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Matej Sudac\source\repos\seminarskamm\seminarskamm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Matej Sudac\source\repos\seminarskamm\seminarskamm\obj\Debug\seminarskamm.csprojResolveAssemblyReference.cache
+C:\Users\Matej Sudac\source\repos\seminarskamm\seminarskamm\obj\Debug\seminarskamm.csproj.CoreCompileInputs.cache
+C:\Users\Matej Sudac\source\repos\seminarskamm\seminarskamm\obj\Debug\seminarskamm.dll
+C:\Users\Matej Sudac\source\repos\seminarskamm\seminarskamm\obj\Debug\seminarskamm.pdb

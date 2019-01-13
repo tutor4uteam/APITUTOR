@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="tutorConnectionString-Web.config Connection String" description="tutorConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=tutor4u.database.windows.net;Initial Catalog=tutor4u_db;Persist Security Info=True;User ID=tutor4u;Password=tutorforyou123!" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Matej\\Desktop\\VisualStudioProject\\seminarskamm\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='tutorConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="islozardbConnectionString-Web.config Connection String" description="islozardbConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=islozar.database.windows.net;Initial Catalog=islozardb;User ID=matej;Password=Niperilo11" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Matej\ Sudac\\source\\repos\\seminarskamm\\seminarskamm\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='islozardbConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
